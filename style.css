@@ -1,3 +1,10 @@
+#discription{
+    font-size: larger;
+}
+.title{
+    text-align: center;
+    color:darkblue;
+}
 .header {
     text-align: center;
     color: darkblue;
