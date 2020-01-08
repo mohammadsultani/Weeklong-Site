@@ -1,0 +1,43 @@
+.header {
+    text-align: center;
+    color: darkblue;
+    background-color: #c1de62;
+}    
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:#d90ba9;
+}
+a:hover{
+    color:red;
+}
+.section{
+    background-color: aqua;
+}
+body{
+    overflow: scroll;
+    background-color: #c1de62;
+}
+.footer{
+    text-align: center;
+}
+img {
+    float: right;
+}
+.article {
+    overflow: auto;
+    margin-left: 20px;
+}
+p{
+    padding-right: 20px ;
+    font-size: large;
+}
+.image{
+    width: 700px;
+    height: 300px;
+}
+.footer{
+    background-color:#c1de62;
+}
